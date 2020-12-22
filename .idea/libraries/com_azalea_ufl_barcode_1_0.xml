@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="com.azalea.ufl.barcode.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/com.azalea.ufl.barcode.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/commons-configuration-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/CrystalCommon2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/CrystalReportsRuntime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/cvom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/DatabaseConnectors.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/icu4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/jai_imageio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/JDBInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/jrcerom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/keycodeDecoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/partner-rep-ds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/pfjgraphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/QueryBuilder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/webreporting-jsf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/webreporting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/EnhancedReports.sar/CrystalReports.war/WEB-INF/lib/xpp3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

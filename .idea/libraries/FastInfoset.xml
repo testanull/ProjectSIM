@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="FastInfoset">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/FastInfoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/jboss-jaxb-intros.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/jbossws-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/jettison.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/stax-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/wsdl4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/wstx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/jbossws.sar/xmlsec.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

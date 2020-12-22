@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="axis-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/axis-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/backport-util-concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/cfgatewayadapter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/flex-messaging-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/flex-messaging-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/flex-messaging-opt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/flex-messaging-proxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/flex-messaging-remoting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/flex-rds-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/simsearch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../deploy/simsearch/WEB-INF/lib/xalan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

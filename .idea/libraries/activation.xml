@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/antlr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/bcel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/bindingservice-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/bsf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/bsh-deployer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/bsh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/cglib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/dom4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/hibernate-entitymanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/hsqldb-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jaxen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-common-jdbc-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-ejb3x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-hibernate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-iiop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-jaxws-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-jaxws.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-jca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-jsr77.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-jsr88.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-management.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-monitoring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-remoting-int.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-remoting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-serialization.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-srp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss-vfs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jboss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossjta-integration.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossjta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossmq.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbosssx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossts-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossws-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossws-framework.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossws-jboss42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbossws-spi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jbpm-jpdl-3.2.6.SP1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jmx-adaptor-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jnpserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/joesnmp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/log4j-snmp-appender.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/properties-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/xmlentitymgr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib_hpsim/commons-collections.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

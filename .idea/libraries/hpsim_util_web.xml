@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hpsim-util-web">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../hpwebadmin/ROOT/WEB-INF/lib/hpsim-util-web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hpwebadmin/ROOT/WEB-INF/lib/jcommon-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hpwebadmin/ROOT/WEB-INF/lib/jfreechart-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
